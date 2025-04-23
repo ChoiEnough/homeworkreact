@@ -16,7 +16,7 @@ function App() {
       <div className="link-area">
         <a
           className="link-button"
-          href="https://homework2-kappa.vercel.app/"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -24,7 +24,7 @@ function App() {
         </a>
         <a
           className="link-button"
-          href="https://chapter3-react2.vercel.app/"
+          href="https://trend-choienoughs-projects.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -56,7 +56,7 @@ function App() {
         </a>
         <a
           className="link-button"
-          href="https://chapter3-react3.vercel.app/"
+          href="https://homework-rosy.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
