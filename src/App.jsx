@@ -16,7 +16,7 @@ function App() {
       <div className="link-area">
         <a
           className="link-button"
-          href="#"
+          href="https://microphone-rho.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
