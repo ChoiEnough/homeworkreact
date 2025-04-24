@@ -19,10 +19,11 @@ const cardStyle = {
 
 
 const imgStyle = {
+  
   width: '100px',
   borderRadius: '50%',
   marginBottom: '10px',
-  display: 'block',    // 이 부분을 추가
+  display: 'flex',    // 이 부분을 추가
   margin: 'auto'       // 이 부분을 추가
 };
 
