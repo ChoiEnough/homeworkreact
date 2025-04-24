@@ -76,7 +76,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          배경색
+          배경색 🖐️
         </a>
         <a
           className="link-button"
@@ -84,7 +84,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          그리드1
+          그리드1 ■
         </a>
         <a
           className="link-button"
@@ -92,8 +92,44 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          그리드2
+          그리드2 ▣
         </a>
+        <a
+          className="link-button"
+          href="\homework\webdev.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          웹 개발 🧑‍💻
+        </a>
+        <a
+          className="link-button"
+          href="\homework\weather.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          기상 🌨️
+        </a>
+        
+        <a
+          className="link-button"
+          href="\homework\animaition1.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          애니메이션1
+        </a>
+
+        <a
+          className="link-button"
+          href="homework\animaition2.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          애니메이션2
+        </a>
+        
+        
         
         
 
