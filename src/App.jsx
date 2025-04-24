@@ -16,7 +16,7 @@ function App() {
       <div className="link-area">
         <a
           className="link-button"
-          href="https://microphone-rho.vercel.app/"
+          href="/homework/microphone.html"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -24,7 +24,7 @@ function App() {
         </a>
         <a
           className="link-button"
-          href="https://trend-choienoughs-projects.vercel.app/"
+          href="\homework\trend.html"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -32,7 +32,7 @@ function App() {
         </a>
         <a
           className="link-button"
-          href="https://bear-iota-teal.vercel.app/"
+          href="\homework\bear.html"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -40,7 +40,7 @@ function App() {
         </a>
         <a
           className="link-button"
-          href="https://travel-mauve-zeta.vercel.app/"
+          href="\homework\travel.html"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -48,15 +48,15 @@ function App() {
         </a>
         <a
           className="link-button"
-          href="https://homework2-kappa.vercel.app/"
+          href="\homework\apple.html"
           target="_blank"
           rel="noopener noreferrer"
         >
           사과🍎
         </a>
-        <a
+        <a 
           className="link-button"
-          href="https://homework-rosy.vercel.app/"
+          href="\homework\resume.html"
           target="_blank"
           rel="noopener noreferrer"
         >
