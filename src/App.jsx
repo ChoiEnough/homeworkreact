@@ -72,7 +72,7 @@ function App() {
         </a>
         <a
           className="link-button"
-          href="\homework\grid1.html"
+          href="\homework\background.html"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -80,7 +80,7 @@ function App() {
         </a>
         <a
           className="link-button"
-          href="\homework\background.html"
+          href="\homework\grid1.html"
           target="_blank"
           rel="noopener noreferrer"
         >
