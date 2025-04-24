@@ -12,7 +12,7 @@ function App() {
         name="최인호"
         description=""
       />
-
+    
       <div className="link-area">
         <a
           className="link-button"
@@ -72,12 +72,22 @@ function App() {
         </a>
         <a
           className="link-button"
-          href="/homework/background.html"
+          href="\homework\grid1.html"
           target="_blank"
           rel="noopener noreferrer"
         >
-          배경색🖐️
+          그리드1
         </a>
+        <a
+          className="link-button"
+          href="\homework\grid2.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          그리드2
+        </a>
+        
+        
 
       </div>
     </div>
