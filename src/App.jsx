@@ -76,6 +76,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          배경색
+        </a>
+        <a
+          className="link-button"
+          href="\homework\background.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           그리드1
         </a>
         <a
