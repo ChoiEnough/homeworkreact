@@ -1,6 +1,6 @@
 import './App.css';
 import ProfileCard from './components/ProfileCard';
-import profileImg from './assets/images/man.jpg';
+import profileImg from './assets/images/profile.jpg';
 
 function App() {
   return (
@@ -61,6 +61,22 @@ function App() {
           rel="noopener noreferrer"
         >
           지원서📙
+        </a>
+        <a
+          className="link-button"
+          href="homework/cat.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          고양이😺
+        </a>
+        <a
+          className="link-button"
+          href="homework/background.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          배경색🖐️
         </a>
 
       </div>
